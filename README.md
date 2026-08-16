@@ -1,2 +1,4 @@
 # myhneaa
-[](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=HOME&secondaryLabel=LAB&primaryBGColor=%2331C4F3&secondaryBGColor=%23389AD5&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=proxmox&primaryIconColor=%23FFFFFF&primaryIconSize=16&primaryIconPosition=left&secondaryIcon=docker&secondaryIconColor=%23FFFFFF&secondaryIconSize=16&secondaryIconPosition=left)
+[![forthebadge](/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![forthebadge](/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](/badges/built-with-resentment.svg)](https://forthebadge.com)
